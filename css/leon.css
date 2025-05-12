@@ -643,7 +643,7 @@ body {
   }
 
   .about-contant .col .image img  {
-    width: 300px;
+    width: 270px;
   margin: auto;
   }
 
@@ -652,7 +652,7 @@ body {
 
   content: " ";
   width: 50px;
-  height: calc(100% - 5px);
+  height: calc(100% - 25px);
   background-color: #ebeced;
   left: -20px;
   top: -23px;
@@ -668,7 +668,7 @@ body {
 
     border-left: var(--main-color) 50px solid;
     border-bottom: var(--main-color) 50px solid;
-    right: -105px;
+    right: -75px;
     top: -20px;
     z-index: -2;
   }
@@ -751,6 +751,6 @@ body {
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
-    font-size: 10px;
+    font-size: 8px;
   }
 }
